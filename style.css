@@ -1,0 +1,31 @@
+h2 {
+    text-align: center;
+}
+.jumbotron {
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+.footer {
+    margin-top: 10px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+}
+.col-lg-10 {
+    text-align: center;
+    background-color: gold;
+}
+.col-lg-5 {
+    background-color: indianred;
+}
+.col {
+    background-color: khaki;
+    margin: 5px;
+    border: 2px solid black;
+    height: 100px;
+    width: 50px;
+    text-align: center;
+    padding: 10px;
+}
